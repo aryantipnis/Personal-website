@@ -1,3 +1,3 @@
 # Personal-website
 
-## https://aryantipnis.github.io/PersonalWebsite/
+### https://aryantipnis.github.io/PersonalWebsite/
